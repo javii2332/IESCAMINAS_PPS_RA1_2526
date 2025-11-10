@@ -1,9 +1,5 @@
 # Práctica Puntuable RA1 – PPS 25_26
 
-Partiendo del repositorio público siguiente:
-
-[https://github.com/miguel-ln/IESCAMINAS_PPS_RA1_2526.git](https://github.com/miguel-ln/IESCAMINAS_PPS_RA1_2526.git)
-
 ---
 
 ## Apartado 1 (3 puntos)
